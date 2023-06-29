@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": "Mahlatse",
+      "name": "Mahlatse Serathi",
+      "password": "Mkenosi"
+    },
+    {
+      "id": "Lebo",
+      "name": "Lebohang Molefe",
+      "password": "1234",
+      "email": "lebo@gmail.com",
+      "phone": "0785583369",
+      "address": "88 West Street, Parkmore. Sandton",
+      "gender": "male"
+    }
+  ]
+}
